@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "ruta",
+        "MONGO_PASSWORD": "NPI75fz3QwEhLfci",
+        "MONGO_DB": "events-react-dev"
+    }
+}
